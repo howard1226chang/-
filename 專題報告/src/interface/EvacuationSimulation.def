@@ -1,0 +1,7 @@
+LIBRARY EvacuationSimulation 
+EXPORTS 
+  InitSimulation 
+  UpdateSimulationState 
+  GetAgentPosition 
+  GetCongestionAt 
+  CleanupSimulation 
