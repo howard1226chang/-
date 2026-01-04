@@ -1,0 +1,4802 @@
+[
+  {
+    "time": 1765809688.8645768,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809688.8645768,
+    "name": "學生",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809688.8645768,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.0693367,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.0693367,
+    "name": "學生",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.0693367,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.2765846,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.2765846,
+    "name": "學生",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.2765846,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.487829,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.487829,
+    "name": "學生",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.487829,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.6907206,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.6907206,
+    "name": "學生",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.6907206,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.8920412,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809689.8920412,
+    "name": "學生",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765809689.8920412,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.1001816,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.1001816,
+    "name": "學生",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765809690.1001816,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.3045564,
+    "name": "老師",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.3045564,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765809690.3045564,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.5076544,
+    "name": "老師",
+    "x": 0,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809690.5086865,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809690.5086865,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.7179387,
+    "name": "老師",
+    "x": 0,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809690.7179387,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809690.7179387,
+    "name": "輪椅",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809690.9228687,
+    "name": "老師",
+    "x": 1,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809690.9228687,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809690.9238687,
+    "name": "輪椅",
+    "x": 2,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809691.127611,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809691.127611,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809691.1286285,
+    "name": "輪椅",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.3325856,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.3325856,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809691.3335972,
+    "name": "輪椅",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.542496,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.542496,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809691.542496,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809691.7471766,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.7471766,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809691.7481916,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.9503944,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809691.9503944,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809691.9503944,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.1612976,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.1612976,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809692.1612976,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.3651998,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.3651998,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809692.3662102,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.574044,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.574044,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809692.574044,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.7797866,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.7797866,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809692.7797866,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.9860973,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809692.9860973,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809692.9860973,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.189934,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.189934,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809693.189934,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.3928607,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.3928607,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809693.3928607,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.5982068,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.5982068,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809693.5982068,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.8011012,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809693.8011012,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809693.8011012,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.0073795,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.0073795,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809694.0073795,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.2181368,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.2181368,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809694.2181368,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.4230373,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.4230373,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809694.424049,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.6280365,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.6280365,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809694.6290581,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.8391116,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809694.8391116,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809694.8391116,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.0410974,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.0410974,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809695.0410974,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.2454805,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.2454805,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809695.2464795,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.4574423,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.4574423,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809695.4574423,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.6623473,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.6623473,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809695.6623473,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.8720028,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809695.8720028,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809695.8720028,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.0872128,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.0872128,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809696.0872128,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.2878501,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.2878501,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809696.2878501,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.4933784,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.4933784,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809696.4943879,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.6977248,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.6977248,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809696.6987312,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.903178,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809696.903178,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809696.903178,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.1118193,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.1118193,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809697.1127334,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.3182073,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.3182073,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809697.3182073,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.5247004,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.5247004,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809697.5257113,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.732161,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.732161,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809697.732161,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.9399507,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809697.9399507,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809697.9399507,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.1425848,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.1425848,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809698.1425848,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.3454087,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.3454087,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809698.3464277,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.550965,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.550965,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809698.5519788,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.7703917,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.7703917,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809698.7703917,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.979511,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809698.979511,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809698.979511,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.1835592,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.1835592,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809699.1835592,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.3835614,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.3835614,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809699.3835614,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.5884488,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.5884488,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809699.5884488,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.8026261,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809699.8026261,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809699.8026261,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.005443,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.005443,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809700.0064538,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.2100341,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.2100341,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809700.2100341,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.4209697,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.4209697,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809700.4209697,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.6255472,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.6255472,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809700.6255472,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.8303595,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809700.8303595,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809700.8303595,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.0348957,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.0348957,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809701.0348957,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.2424412,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.2424412,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809701.2424412,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.4527411,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.4527411,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809701.4527411,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.6605887,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.6605887,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809701.6605887,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.8672135,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809701.8672135,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809701.8672135,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.0741937,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.0741937,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809702.0741937,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.2790139,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.2790139,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809702.2790139,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.482629,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.482629,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809702.482629,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.686309,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.686309,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809702.686309,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.8898354,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809702.8898354,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809702.8898354,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.0962136,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.0962136,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809703.0962136,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.2990215,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.2990215,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809703.2990215,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.503375,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.503375,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809703.503375,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.7109902,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.7109902,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809703.7109902,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.929799,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809703.929799,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809703.929799,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.1331298,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.1331298,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809704.1331298,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.3386328,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.3386328,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809704.3386328,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.543957,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.543957,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809704.543957,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.7483883,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.7483883,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809704.7483883,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.9522057,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809704.9522057,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809704.9522057,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.167086,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.167086,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809705.167086,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.3772511,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.3772511,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809705.3782578,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.5911782,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.5911782,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809705.5921972,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.7930183,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.7930183,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809705.7930183,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.9995153,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809705.9995153,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809705.9995153,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.2016857,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.2016857,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809706.2016857,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.4035046,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.4035046,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809706.4045167,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.6076353,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.6076353,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809706.6076353,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.8132155,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809706.8132155,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809706.8132155,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.0183191,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.0183191,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809707.0193248,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.2229493,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.2229493,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809707.2229493,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.4362023,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.4362023,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809707.4362023,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.6506014,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.6506014,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809707.6506014,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.8540578,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809707.8540578,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809707.8540578,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.0678236,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.0678236,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809708.0678236,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.283043,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.283043,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809708.283043,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.4894679,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.4894679,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809708.490478,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.6929526,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.6929526,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809708.6929526,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.8972695,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809708.8972695,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809708.8983133,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.1138637,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.1138637,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809709.1138637,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.322604,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.322604,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809709.322604,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.5281951,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.5281951,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809709.5281951,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.7328842,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.7328842,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809709.7338963,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.9481142,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809709.9481142,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809709.9481142,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.1520438,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.1520438,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809710.1528194,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.3672404,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.3672404,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809710.3672404,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.5702286,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.5702286,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809710.5712352,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.7732067,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.7732067,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809710.7732067,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.9755538,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809710.9755538,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809710.9755538,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.18444,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.18444,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809711.18444,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.3981688,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.3981688,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809711.3991754,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.604677,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.604677,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809711.604677,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.8097394,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809711.8097394,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809711.8097394,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.0143104,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.0143104,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809712.0143104,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.2180223,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.2180223,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809712.2180223,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.423178,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.423178,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809712.423178,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.627574,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.627574,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809712.627574,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.8305066,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809712.8305066,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809712.8315032,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.0338802,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.0338802,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809713.0348792,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.2457974,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.2457974,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809713.2473018,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.4538484,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.4538484,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809713.4538484,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.6642373,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.6642373,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809713.6642373,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.8674765,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809713.8674765,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809713.8674765,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.0754151,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.0754151,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809714.0754151,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.2777767,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.2777767,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809714.2787821,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.4916763,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.4916763,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809714.4916763,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.7025602,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.7025602,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809714.7025602,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.909006,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809714.909006,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809714.9100876,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.1150851,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.1150851,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809715.1160955,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.3261042,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.3261042,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809715.3261042,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.5281112,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.5291333,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809715.5291333,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.7334948,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.7334948,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809715.7334948,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.9401014,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809715.9401014,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809715.9410994,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.150896,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.150896,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809716.151904,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.3565295,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.3565295,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809716.3565295,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.5657802,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.5657802,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809716.5657802,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.7683823,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.7683823,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809716.7695086,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.9715652,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809716.9715652,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809716.9725845,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.1805043,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.1805043,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809717.1815054,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.389874,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.389874,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809717.3908842,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.5936382,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.5936382,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809717.5936382,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.7959037,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809717.7959037,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809717.7959037,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.001087,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.001087,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809718.0020998,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.209415,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.209415,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809718.209415,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.4131167,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.4131167,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809718.4131167,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.6142144,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.6142144,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809718.6152244,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.8173382,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809718.8173382,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809718.8173382,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.019682,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.019682,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809719.020369,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.2269065,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.2269065,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809719.2269065,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.4291124,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.4291124,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809719.4291124,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.6424096,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.6424096,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809719.6424096,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.8616018,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809719.8616018,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809719.8616018,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.0770764,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.0770764,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809720.0770764,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.283163,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.283163,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809720.2841756,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.4878445,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.4878445,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809720.4888713,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.6918797,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.6918797,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809720.6928933,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.9012353,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809720.9012353,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809720.9012353,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.105027,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.105027,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809721.105027,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.3095148,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.3095148,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809721.3095148,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.5210807,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.5210807,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809721.522094,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.7281768,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.7281768,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809721.7281768,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.9329193,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809721.9329193,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809721.9329193,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.1348803,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.1348803,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809722.1348803,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.3362887,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.3362887,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809722.3362887,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.5391533,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.5391533,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809722.5391533,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.7513106,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.7513106,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809722.75233,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.9614885,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809722.9614885,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809722.9614885,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.169369,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.169369,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809723.169369,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.3755417,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.3755417,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809723.3755417,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.579492,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.579492,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809723.579492,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.7808585,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.7808585,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809723.781871,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.9928877,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809723.9928877,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809723.9928877,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.2077003,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.2077003,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809724.2077003,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.4156246,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.4156246,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809724.4156246,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.6195042,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.6195042,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809724.6195042,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.8220878,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809724.8220878,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809724.8231015,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.0312407,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.0312407,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809725.0312407,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.2509184,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.2509184,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809725.2509184,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.4531677,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.4531677,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809725.4531677,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.6537027,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.6537027,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809725.6543396,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.861083,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809725.861083,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809725.861083,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.0735238,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.0735238,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809726.0735238,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.2747157,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.2747157,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809726.2747157,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.477192,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.477192,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809726.477192,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.6818628,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.6818628,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809726.6818628,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.8944547,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809726.8944547,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809726.8949628,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.1080658,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.1080658,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809727.1090717,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.3174207,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.3174207,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809727.3174207,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.5215073,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.5215073,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809727.5215073,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.7235682,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.7235682,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809727.7235682,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.9272888,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809727.9272888,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809727.9272888,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.1334708,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.1334708,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809728.1334708,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.3452446,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.3452446,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809728.3452446,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.5609722,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.5609722,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809728.5609722,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.7760408,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.7760408,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809728.7760408,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.9873931,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809728.9873931,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809728.9873931,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.1973789,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.1973789,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809729.1973789,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.4036777,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.4036777,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809729.4036777,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.61695,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.61695,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809729.6180687,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.8182197,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809729.8182197,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809729.8182197,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809730.028693,
+    "name": "老師",
+    "x": 2,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809730.028693,
+    "name": "學生",
+    "x": 3,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809730.028693,
+    "name": "輪椅",
+    "x": 3,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  }
+]

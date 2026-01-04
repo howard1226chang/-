@@ -1,0 +1,242 @@
+[
+  {
+    "time": 1765809112.9058764,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809113.115115,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809113.318577,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809113.5307264,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809113.7325299,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809113.9444404,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809114.1468472,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809114.3586946,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809114.565397,
+    "name": "一般人",
+    "x": 0,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809114.7795706,
+    "name": "一般人",
+    "x": 0,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809114.9826083,
+    "name": "一般人",
+    "x": 1,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809115.1908648,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809115.3982792,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809115.6025898,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809115.8067458,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809116.0118427,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809116.2180085,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809116.421358,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809116.628359,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809116.8335257,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809117.0399008,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809117.2525902,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809117.4560091,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809117.6633997,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809117.871513,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809118.085837,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809118.3012137,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809118.5135312,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809118.7219794,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809118.929941,
+    "name": "一般人",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  }
+]

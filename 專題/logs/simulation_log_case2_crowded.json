@@ -1,0 +1,722 @@
+[
+  {
+    "time": 1765809977.2078907,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.20889,
+    "name": "小孩",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.20889,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.432434,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.432434,
+    "name": "小孩",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.432434,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.6392565,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.6392565,
+    "name": "小孩",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.6392565,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.8455045,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.8455045,
+    "name": "小孩",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809977.8455045,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.0503654,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.0503654,
+    "name": "小孩",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.0503654,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.2585013,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.2585013,
+    "name": "小孩",
+    "x": 1,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.2585013,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.4595068,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.4603035,
+    "name": "小孩",
+    "x": 2,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809978.4603035,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.661916,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.661916,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809978.661916,
+    "name": "一般人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.8763077,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809978.8763077,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809978.8773084,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809979.0897906,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.0897906,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809979.0897906,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.2919629,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.2919629,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809979.2927563,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.4949825,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.4949825,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809979.4949825,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.7075658,
+    "name": "老人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.7075658,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809979.7075658,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809979.911276,
+    "name": "老人",
+    "x": 1,
+    "y": 0,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809979.911276,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809979.911276,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.1136062,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765809980.1136062,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809980.1146228,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.3252127,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.3252127,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809980.3252127,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.5261972,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.5261972,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809980.5261972,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.7286153,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.7286153,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809980.7286153,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.9338472,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809980.9338472,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809980.9338472,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.149268,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.149268,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809981.149268,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.3529546,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.3529546,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809981.3529546,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.5555568,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.5555568,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809981.5555568,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.757898,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.757898,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809981.757898,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.9712555,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809981.9712555,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809981.9712555,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.1744993,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.1744993,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809982.1744993,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.3750744,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.3750744,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809982.3750744,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.5784738,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.5784738,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809982.5784738,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.7934456,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.7934456,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809982.7934456,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.9996467,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809982.9996467,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809982.9996467,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809983.2030172,
+    "name": "老人",
+    "x": 2,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765809983.2030172,
+    "name": "小孩",
+    "x": 2,
+    "y": 2,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765809983.2030172,
+    "name": "一般人",
+    "x": 2,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  }
+]

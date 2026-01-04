@@ -1,0 +1,13 @@
+case,name,wait_count,move_count,blocked_count,arrived,final_x,final_y,final_state
+case1_single,一般人,8,4,0,1,2,2,Arrived
+case2_crowded,老人,28,2,0,0,2,0,Wait
+case2_crowded,小孩,6,2,0,1,2,2,Arrived
+case2_crowded,一般人,29,1,0,0,2,1,Wait
+case3_wheelchair,輪椅,116,4,0,0,2,2,Wait
+case3_wheelchair,一般人,8,4,0,1,3,2,Arrived
+case1_single,一般人,8,4,0,1,2,2,Arrived
+case2_crowded,老人,28,2,0,0,2,0,Wait
+case2_crowded,小孩,6,2,0,1,2,2,Arrived
+case2_crowded,一般人,29,1,0,0,2,1,Wait
+case3_wheelchair,輪椅,116,4,0,0,2,2,Wait
+case3_wheelchair,一般人,8,4,0,1,3,2,Arrived

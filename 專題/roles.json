@@ -1,0 +1,82 @@
+{
+  "老人": {
+    "speed": 0.8,
+    "vision": 4,
+    "type": "elderly",
+    "reaction_time": 2.5,
+    "tolerance": 0.5,
+    "move_delay": 0.7,
+
+    "stamina": 60,
+    "can_use_stairs": true,
+    "accessibility_need": false,
+    "follow_tendency": 0.6,
+    "avoid_terrain": []
+  },
+  "輪椅": {
+    "speed": 0.7,
+    "vision": 4,
+    "type": "disabled",
+    "reaction_time": 2.0,
+    "tolerance": 0.6,
+    "move_delay": 1.2,
+
+    "stamina": 70,
+    "can_use_stairs": false,
+    "accessibility_need": true,
+    "follow_tendency": 0.8,
+    "avoid_terrain": ["stairs"]
+  },
+  "小孩": {
+    "speed": 1.2,
+    "vision": 4,
+    "type": "child",
+    "reaction_time": 1.0,
+    "tolerance": 0.4,
+    "move_delay": 0.4,
+
+    "stamina": 90,
+    "can_use_stairs": true,
+    "accessibility_need": false,
+    "follow_tendency": 0.9,
+    "prefer_follow": "adult",
+    "fear_level": 0.7
+  },
+  "成人": {
+    "speed": 1.0,
+    "vision": 4,
+    "type": "adult",
+    "reaction_time": 1.5,
+    "tolerance": 0.7,
+    "move_delay": 0.5,
+
+    "stamina": 85,
+    "can_use_stairs": true,
+    "accessibility_need": false,
+    "follow_tendency": 0.3
+  },
+  "老師": {
+    "speed": 1.0,
+    "vision": 5,
+    "type": "adult",
+    "reaction_time": 1.5,
+    "tolerance": 0.8,
+    "move_delay": 0.5
+  },
+  "學生": {
+    "speed": 1.2,
+    "vision": 4,
+    "type": "child",
+    "reaction_time": 0.8,
+    "tolerance": 0.3,
+    "move_delay": 0.3
+  },
+  "一般人": {
+    "speed": 1.0,
+    "vision": 4,
+    "type": "adult",
+    "reaction_time": 1.5,
+    "tolerance": 0.7,
+    "move_delay": 0.5
+  }
+}

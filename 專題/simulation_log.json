@@ -1,0 +1,18 @@
+[
+  {
+    "time": 1730000000.12,
+    "name": "老人",
+    "x": 0,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Moved"
+  },
+  {
+    "time": 1730000000.23,
+    "name": "小孩",
+    "x": 1,
+    "y": 1,
+    "state": "Avoid",
+    "action": "Blocked"
+  }
+]

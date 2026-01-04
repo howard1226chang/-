@@ -1,0 +1,4802 @@
+[
+  {
+    "time": 1765810905.9072902,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810905.9072902,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810905.9072902,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810905.9601903,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810905.9601903,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810905.9601903,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.0210319,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.0210319,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.0210319,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.0848925,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.0848925,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.0848925,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.146898,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.146898,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.146898,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.2106702,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.2106702,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.2106702,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.275019,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.275019,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.275019,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.3356025,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.3356025,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.3356025,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.398976,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.398976,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.398976,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.461882,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.461882,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.461882,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.5240407,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.5240407,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.5240407,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.5914266,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.5914266,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.5914266,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.6542711,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.6542711,
+    "name": "學生",
+    "x": 0,
+    "y": 1,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.6542711,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.717035,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.717035,
+    "name": "學生",
+    "x": 1,
+    "y": 1,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810906.717035,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.7804449,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.7804449,
+    "name": "學生",
+    "x": 1,
+    "y": 2,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810906.7804449,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.8383627,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.8383627,
+    "name": "學生",
+    "x": 1,
+    "y": 3,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810906.8383627,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.9005778,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.9005778,
+    "name": "學生",
+    "x": 1,
+    "y": 4,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810906.9005778,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.9635258,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810906.9635258,
+    "name": "學生",
+    "x": 2,
+    "y": 4,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810906.9635258,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.0261528,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.0261528,
+    "name": "學生",
+    "x": 3,
+    "y": 4,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.0261528,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.090638,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.090638,
+    "name": "學生",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.090638,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.1478808,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.1478808,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Wait",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.1478808,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.2088315,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.2113414,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Evacuate",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.2113414,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.2736611,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.2746658,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.2746658,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.3282146,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.3282146,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.3282146,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.3910017,
+    "name": "一般人",
+    "x": 0,
+    "y": 0,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.3910017,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.3910017,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.4534736,
+    "name": "一般人",
+    "x": 0,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.4534736,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.4534736,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.515602,
+    "name": "一般人",
+    "x": 1,
+    "y": 1,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.515602,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.515602,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.56587,
+    "name": "一般人",
+    "x": 1,
+    "y": 2,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.56587,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.56587,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.6295176,
+    "name": "一般人",
+    "x": 1,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.6295176,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.6295176,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.690664,
+    "name": "一般人",
+    "x": 1,
+    "y": 4,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.690664,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.690664,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.749488,
+    "name": "一般人",
+    "x": 2,
+    "y": 4,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.749488,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.749488,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.8126452,
+    "name": "一般人",
+    "x": 3,
+    "y": 4,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.8126452,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.8126452,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.8846412,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810907.8846412,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.8846412,
+    "name": "輪椅",
+    "x": 0,
+    "y": 2,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.943779,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810907.943779,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810907.9447808,
+    "name": "輪椅",
+    "x": 0,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810908.0003881,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.0003881,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.0003881,
+    "name": "輪椅",
+    "x": 1,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810908.0568337,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.0568337,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.0568337,
+    "name": "輪椅",
+    "x": 2,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810908.121085,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.121085,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.121085,
+    "name": "輪椅",
+    "x": 3,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810908.1885612,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.1885612,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.1885612,
+    "name": "輪椅",
+    "x": 4,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810908.2512796,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.2512796,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.2512796,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Evacuate",
+    "action": "Step"
+  },
+  {
+    "time": 1765810908.3127866,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.3127866,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.3127866,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.3749814,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.3749814,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.3759685,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.4380615,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.4380615,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.4389036,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.4988906,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.4988906,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.4988906,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.5577252,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.5577252,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.5577252,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.621565,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.621565,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.621565,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.6837125,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.6837125,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.6846159,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.746635,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.746635,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.7471519,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.8079653,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.8079653,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.8079653,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.8806763,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.8806763,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.8806763,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.9501064,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810908.9501064,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810908.9511108,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.0135355,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.0135355,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.0135355,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.0761657,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.0761657,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.0761657,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.1397996,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.1397996,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.1397996,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.2024965,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.2024965,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.2024965,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.2650344,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.2650344,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.2650344,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.322859,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.322859,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.322859,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.385452,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.385452,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.3863018,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.4481213,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.4481213,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.4481213,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.502936,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.502936,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.502936,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.5594492,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.5594492,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.5594492,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.624886,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.624886,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.624886,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.691762,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.691762,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.691762,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.7540045,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.7540045,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.7545934,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.8160834,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.8160834,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.8160834,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.8784728,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.8784728,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.8784728,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.9402425,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810909.9402425,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810909.9402425,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.003287,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.003287,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.003287,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.065919,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.065919,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.0660362,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.1277447,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.1277447,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.1277447,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.1916022,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.1916022,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.1916022,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.2559512,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.2559512,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.2559512,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.3118768,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.3118768,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.3118768,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.3751326,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.3751326,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.3751326,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.436573,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.436573,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.436573,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.5000694,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.5000694,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.5007021,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.563209,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.563209,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.5635104,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.6245458,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.6245458,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.6245458,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.6863527,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.6863527,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.6863527,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.7491543,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.7491543,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.7496102,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.812032,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.812032,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.812032,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.8851056,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.8851056,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.8851056,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.9380922,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810910.9380922,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810910.9380922,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.0003178,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.0003178,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.0003178,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.0636394,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.0636394,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.0636394,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.1264813,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.1264813,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.1264813,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.1887832,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.1887832,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.1887832,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.2597988,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.2597988,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.260348,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.3174934,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.3174934,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.3174934,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.3695867,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.3695867,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.3695867,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.4330225,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.4330225,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.4330225,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.4878294,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.4878294,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.488657,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.5504875,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.5504875,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.551814,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.609661,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.609661,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.6101656,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.6718338,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.6718338,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.6728368,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.7338006,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.7338006,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.7338006,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.7986288,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.7986288,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.7986288,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.860232,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.860232,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.860232,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.9225206,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.9225206,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.9235072,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.974749,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810911.974749,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810911.974749,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.0379684,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.0379684,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.0379684,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.1007507,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.1007507,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.1007507,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.1614008,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.1614008,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.1614008,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.2262726,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.2262726,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.2262726,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.2877393,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.2877393,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.2877393,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.349428,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.349428,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.3514519,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.4091356,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.4091356,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.4091356,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.4712257,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.4712257,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.4712257,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.5337203,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.5337203,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.5341985,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.5861497,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.5861497,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.5861497,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.648791,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.648791,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.6499152,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.7108738,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.7108738,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.7108738,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.7707963,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.7707963,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.7707963,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.8355238,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.8355238,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.8355238,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.8981361,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.8981361,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.898958,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.9612052,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810912.9612052,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810912.9612052,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.0215807,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.0215807,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.0215807,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.084065,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.084065,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.084065,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.1461496,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.1461496,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.1468341,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.2002199,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.2002199,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.2002199,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.261828,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.261828,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.261828,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.316395,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.316395,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.316395,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.3787186,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.3787186,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.3796504,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.4515269,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.4515269,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.4515269,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.516191,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.516191,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.5172029,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.5707502,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.5707502,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.5707502,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.6333077,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.6333077,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.6333077,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.6957676,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.6957676,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.696547,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.7585628,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.7585628,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.7585628,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.8226194,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.8226194,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.8226194,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.885132,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.885132,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.885132,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.945796,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810913.945796,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810913.9466074,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.008306,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.008306,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.008306,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.0705237,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.0705237,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.0717654,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.132973,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.132973,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.132973,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.1940303,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.1940303,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.1940303,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.2461681,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.2461681,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.2461681,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.3009815,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.3009815,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.3016005,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.3641636,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.3641636,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.3641636,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.424316,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.424316,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.4248605,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.4866781,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.4866781,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.4866781,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.5459418,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.5459418,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.5459418,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.6091557,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.6091557,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.6091557,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.6725652,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.6725652,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.6725652,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.7334452,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.7334452,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.7344408,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.7948043,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.7948043,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.7948043,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.8577096,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.8577096,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.8577096,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.922441,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.922441,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.922441,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.9846513,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810914.9846513,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810914.9846513,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.0462122,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.0462122,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.0469728,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.108508,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.108508,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.108508,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.1712809,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.1712809,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.1712809,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.2332425,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.2332425,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.2332425,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.2949855,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.2949855,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.2949855,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.357572,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.357572,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.357572,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.4202602,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.4202602,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.4210775,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.4844096,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.4844096,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.4844096,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.547438,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.547438,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.5476325,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.6086175,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.6086175,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.6086175,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.671259,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.671259,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.671259,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.734417,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.734417,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.734417,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.796262,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.796262,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.7972639,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.8573725,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.8573725,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.8573725,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.9202795,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.9202795,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.9212878,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.9822092,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810915.9822092,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810915.9829996,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.0454812,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.0454812,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.0457656,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.107714,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.107714,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.107714,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.1712801,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.1712801,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.1712801,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.234272,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.234272,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.234272,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.2961235,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.2961235,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.2961235,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.357837,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.357837,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.357837,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.4212384,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.4212384,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.4212384,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.4823093,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.4823093,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.4823093,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.5467837,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.5467837,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.5467837,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.607057,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.607057,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.607057,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.6706722,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.6706722,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.6706722,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.7328906,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.7328906,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.7328906,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.7943134,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.7943134,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.7943134,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.8575332,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.8575332,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.8575332,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.9205644,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.9205644,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.9205644,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.98273,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810916.98273,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810916.98273,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.044277,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.044277,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.044277,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.1081743,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.1081743,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.1081743,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.170012,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.170012,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.170012,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.2334075,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.2334075,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.2334075,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.2963398,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.2963398,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.2963398,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.358584,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.358584,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.358584,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.421542,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.421542,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.4224257,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.485183,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.485183,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.485183,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.5393662,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.5393662,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.5393662,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.5970652,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.5970652,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.5970652,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.6582353,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.6582353,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.659234,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.7226224,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.7226224,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.7227988,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.784368,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.784368,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.784368,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.8602307,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.8602307,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.8602307,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.9236443,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.9236443,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.9242961,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.994709,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810917.994709,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810917.994709,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.0603933,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.0603933,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810918.0603933,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.123204,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.123204,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810918.123204,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.1856217,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.1856217,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810918.1856217,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.2478697,
+    "name": "一般人",
+    "x": 4,
+    "y": 4,
+    "state": "Wait",
+    "action": "Wait"
+  },
+  {
+    "time": 1765810918.2478697,
+    "name": "學生",
+    "x": 5,
+    "y": 4,
+    "state": "Arrived",
+    "action": "Arrived"
+  },
+  {
+    "time": 1765810918.2478697,
+    "name": "輪椅",
+    "x": 5,
+    "y": 3,
+    "state": "Wait",
+    "action": "Wait"
+  }
+]
